@@ -2,4 +2,4 @@ SortViz is a sorting algorithm visualizer that brings to life some of the most w
 
 Built using a combination of HTML, CSS, JavaScript, and React.js.
 
-Working link of the project : https://my-sortingvisualizer.netlify.app/
+Working link of the project : https://sortvizz.netlify.app/
